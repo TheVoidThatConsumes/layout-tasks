@@ -46,8 +46,7 @@ p{
 }
 
 .container{
-    display: grid;
-    grid-template-columns: 250px 250px 250px;
+    display: flex;
     text-align: center;
     height: 400px;
     align-items: center;
@@ -58,6 +57,8 @@ p{
 
 .child{
     height: 400px;
+    width: 250px;
+    padding: 50px;
 }
 
 #sedan{
