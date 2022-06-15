@@ -52,13 +52,12 @@ p{
     align-items: center;
     justify-content: center;
     margin: auto;
-    padding: 25px;
+    padding: 50px;
 }
 
 .child{
     height: 400px;
     width: 250px;
-    padding: 50px;
 }
 
 #sedan{
